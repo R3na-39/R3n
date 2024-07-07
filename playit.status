@@ -1,478 +1,1144 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720394612316 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720394992821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394615427 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720394995937 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394618547 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720394999069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394621742 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395002266 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394624861 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395005361 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394627972 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395008493 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394631085 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395011641 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394634205 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395014770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394637311 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395017874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394640423 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395021018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394643578 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395024145 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394646722 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395027272 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394649869 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395030368 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394652987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395033461 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394656115 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395036566 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394659247 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395039664 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394662386 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395042783 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394665512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395045910 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394668644 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395049018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394671788 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395052225 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394674885 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395055407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394678009 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395058578 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394681160 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395061681 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394684270 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395064772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394687424 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395067903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394690551 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395071018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394693662 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395074143 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394696777 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395077247 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394699915 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395080337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394703041 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395083466 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394706162 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395086571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394709303 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395089669 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394712499 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395092824 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394715643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395095941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394718796 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395099090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394721930 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395102214 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394725048 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395105346 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394728159 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395108554 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394731262 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395111712 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394734364 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395114831 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394737486 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395117958 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394740583 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395121100 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394743732 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395124205 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394746846 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395127353 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394749962 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395130590 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394753091 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395133789 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394756270 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395136910 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394759463 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395140042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394762602 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395143171 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394765740 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395146342 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394768873 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395149462 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394771989 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395152654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394775088 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395155850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394778204 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395159029 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394781521 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395162128 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394784655 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395165243 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394787818 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395168400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394790931 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395171523 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394794053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395174705 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394797218 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395177824 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394800337 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395180944 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394803479 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395184062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394806602 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395187213 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394809723 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395190337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394812866 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395193457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394815964 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395196586 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394819066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395199736 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394822194 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395202890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394825310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395206007 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394828576 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395209100 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394831725 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395212228 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394834853 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395215385 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394837976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395218502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394841092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395221681 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394844199 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395224797 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394847298 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395227944 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394850420 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395231089 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394853623 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395234250 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394856742 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395237357 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720394859851 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720395240476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395243597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395246698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395249845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395252975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395256097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395259243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395262349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395265446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395268618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395271738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395274848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395277949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395281064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395284203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395287344 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395290462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395293573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395296704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395299804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395302911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395306034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395309192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395312292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395315414 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395318538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395321637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395324740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395327841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395330960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395334073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395337177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395340308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395343405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395346519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395349620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395352716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395355835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395358932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395362086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395365210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395368314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395371433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395374695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395377832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395380938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395384081 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395387196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395390331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395393452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395396566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395399708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395402833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395405950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395409097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395412195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395415294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395418432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395421559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395424674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395427805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395430969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395434086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395437208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395440299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395443416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395446561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395449679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395452816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395455955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395459075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395462179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395465277 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395468403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395471505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395474628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395477822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395480975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395484090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395487325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395490462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395493578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395496711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395499851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395503033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395506144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395509274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395512385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395515521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395518654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395521759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395524875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395527995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395531124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395534242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395537353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395540504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395543639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395546792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395549997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395553129 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395556236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395559336 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395562476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395565590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395568729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395571897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395575002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395578116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395581241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395584365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+printer-grown.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+directory-dod.gl.at.ply.gg:4575 => 127.0.0.1:4575 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720395587492 tunnel running, 2 tunnels registered
 
 
 TUNNELS
